@@ -1,0 +1,2 @@
+git add . (Para adicionar ao commit local)
+git commit -m "Mensagem" (Para adicionar ao Server GitHub)
