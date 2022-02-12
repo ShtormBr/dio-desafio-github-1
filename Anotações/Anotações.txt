@@ -1,2 +1,3 @@
 git add . (Para adicionar ao commit local)
-git commit -m "Mensagem" (Para adicionar ao Server GitHub)
+git commit -m "Mensagem" (Para adicionar comentário ao Commit)
+git push origin main (Para enviar as atualizações do projeto ao GitHub)
